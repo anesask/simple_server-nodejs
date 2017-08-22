@@ -1,0 +1,12 @@
+{
+  "name": "simple_server",
+  "version": "1.0.0",
+  "description": "This is a very simple Web Server based on Node.js framework.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Anes Mulalić",
+  "license": "GPL-3.0"
+}
